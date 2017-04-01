@@ -16,9 +16,7 @@ def helloBack():
 	print("{}".format(sys.argv[1]))
 
 # testing for a fizzbuzz, for the first time ever!
-# multiples of 3, fizz.
-# multiples of 5, buzz
-# for both, fizzbuzz
+# multiples of 3, fizz. multiples of 5, buzz. for both, fizzbuzz
 def fb(input):
 	numTest = False
 
