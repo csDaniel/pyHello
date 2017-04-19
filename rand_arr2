@@ -1,0 +1,326 @@
+Opening file: rand_arr
+Building the array now~
+Parsing: 93,31,93,32,59,3 into array 
+current_loc 0 
+current_loc 1 
+current_loc 2 
+current_loc 3 
+current_loc 4 
+current_loc 5 
+Parsing: ,20,51,100,58,79 into array 
+current_loc 6 
+current_loc 7 
+current_loc 8 
+current_loc 9 
+current_loc 10 
+Parsing: ,27,96,80,5,97,2 into array 
+current_loc 11 
+current_loc 12 
+current_loc 13 
+current_loc 14 
+current_loc 15 
+current_loc 16 
+Parsing: 0,49,85,62,99,1, into array 
+current_loc 17 
+current_loc 18 
+current_loc 19 
+current_loc 20 
+current_loc 21 
+current_loc 22 
+Parsing: 16,6,27,75,5,69, into array 
+current_loc 23 
+current_loc 24 
+current_loc 25 
+current_loc 26 
+current_loc 27 
+current_loc 28 
+Parsing: 29,96,14,27,9,68 into array 
+current_loc 29 
+current_loc 30 
+current_loc 31 
+current_loc 32 
+current_loc 33 
+current_loc 34 
+Parsing: ,56,99,63,76,68, into array 
+current_loc 35 
+current_loc 36 
+current_loc 37 
+current_loc 38 
+current_loc 39 
+Parsing: 41,85,38,1,53,47 into array 
+current_loc 40 
+current_loc 41 
+current_loc 42 
+current_loc 43 
+current_loc 44 
+current_loc 45 
+Parsing: ,71,96,57,18,19, into array 
+current_loc 46 
+current_loc 47 
+current_loc 48 
+current_loc 49 
+current_loc 50 
+Parsing: 8,15,23,9,12,12, into array 
+current_loc 51 
+current_loc 52 
+current_loc 53 
+current_loc 54 
+current_loc 55 
+current_loc 56 
+Parsing: 79,35,52,58,26,1 into array 
+current_loc 57 
+current_loc 58 
+current_loc 59 
+current_loc 60 
+current_loc 61 
+current_loc 62 
+Parsing: 8,79,80,53,18,88 into array 
+current_loc 63 
+current_loc 64 
+current_loc 65 
+current_loc 66 
+current_loc 67 
+current_loc 68 
+Parsing: ,33,92,16,97,25, into array 
+current_loc 69 
+current_loc 70 
+current_loc 71 
+current_loc 72 
+current_loc 73 
+Parsing: 13,82,81,83,89,1 into array 
+current_loc 74 
+current_loc 75 
+current_loc 76 
+current_loc 77 
+current_loc 78 
+current_loc 79 
+Parsing: 0,6,2,78,91,26,4 into array 
+current_loc 80 
+current_loc 81 
+current_loc 82 
+current_loc 83 
+current_loc 84 
+current_loc 85 
+current_loc 86 
+Parsing: 2,82,2,29,20,61, into array 
+current_loc 87 
+current_loc 88 
+current_loc 89 
+current_loc 90 
+current_loc 91 
+current_loc 92 
+Parsing: 87,52,42,60,73,4 into array 
+current_loc 93 
+current_loc 94 
+current_loc 95 
+current_loc 96 
+current_loc 97 
+current_loc 98 
+Parsing: 0,62,36,63,29,12 into array 
+current_loc 99 
+current_loc 100 
+current_loc 101 
+current_loc 102 
+current_loc 103 
+current_loc 104 
+Parsing: ,13,75,8,71,45,9 into array 
+current_loc 105 
+current_loc 106 
+current_loc 107 
+current_loc 108 
+current_loc 109 
+current_loc 110 
+Parsing: 0,26,88,90,8,30, into array 
+current_loc 111 
+current_loc 112 
+current_loc 113 
+current_loc 114 
+current_loc 115 
+current_loc 116 
+Parsing: 34,56,95,33,36,6 into array 
+current_loc 117 
+current_loc 118 
+current_loc 119 
+current_loc 120 
+current_loc 121 
+current_loc 122 
+Parsing: 6,59,87,43,100,3 into array 
+current_loc 123 
+current_loc 124 
+current_loc 125 
+current_loc 126 
+current_loc 127 
+current_loc 128 
+Parsing: 4,90,10,2,43,16, into array 
+current_loc 129 
+current_loc 130 
+current_loc 131 
+current_loc 132 
+current_loc 133 
+current_loc 134 
+Parsing: 6,25,92,96,75,37 into array 
+current_loc 135 
+current_loc 136 
+current_loc 137 
+current_loc 138 
+current_loc 139 
+current_loc 140 
+Parsing: ,23,69,33,66,66, into array 
+current_loc 141 
+current_loc 142 
+current_loc 143 
+current_loc 144 
+current_loc 145 
+Parsing: 36,96,18,10,12,1 into array 
+current_loc 146 
+current_loc 147 
+current_loc 148 
+current_loc 149 
+current_loc 150 
+current_loc 151 
+Parsing: 6,82,83,43,9,73, into array 
+current_loc 152 
+current_loc 153 
+current_loc 154 
+current_loc 155 
+current_loc 156 
+current_loc 157 
+Parsing: 60,56,20,13,53,7 into array 
+current_loc 158 
+current_loc 159 
+current_loc 160 
+current_loc 161 
+current_loc 162 
+current_loc 163 
+Parsing: ,30,81,23,4,63,2 into array 
+current_loc 164 
+current_loc 165 
+current_loc 166 
+current_loc 167 
+current_loc 168 
+current_loc 169 
+Parsing: 1,19,80,52,71,85 into array 
+current_loc 170 
+current_loc 171 
+current_loc 172 
+current_loc 173 
+current_loc 174 
+current_loc 175 
+Parsing: ,47,59,26,34,97, into array 
+current_loc 176 
+current_loc 177 
+current_loc 178 
+current_loc 179 
+current_loc 180 
+Parsing: 3,80,14,24,29,94 into array 
+current_loc 181 
+current_loc 182 
+current_loc 183 
+current_loc 184 
+current_loc 185 
+current_loc 186 
+Parsing: ,98,73,8,21,72,4 into array 
+current_loc 187 
+current_loc 188 
+current_loc 189 
+current_loc 190 
+current_loc 191 
+current_loc 192 
+Parsing: 3,78,3,100,46,40 into array 
+current_loc 193 
+current_loc 194 
+current_loc 195 
+current_loc 196 
+current_loc 197 
+current_loc 198 
+Parsing: ,3,89,60,22,90,6 into array 
+current_loc 199 
+current_loc 200 
+current_loc 201 
+current_loc 202 
+current_loc 203 
+current_loc 204 
+Parsing: 8,48,45,75,2,14, into array 
+current_loc 205 
+current_loc 206 
+current_loc 207 
+current_loc 208 
+current_loc 209 
+current_loc 210 
+Parsing: 28,88,77,54,50,2 into array 
+current_loc 211 
+current_loc 212 
+current_loc 213 
+current_loc 214 
+current_loc 215 
+current_loc 216 
+Parsing: 6,41,28,5,18,71, into array 
+current_loc 217 
+current_loc 218 
+current_loc 219 
+current_loc 220 
+current_loc 221 
+current_loc 222 
+Parsing: 73,22,33,93,27,6 into array 
+current_loc 223 
+current_loc 224 
+current_loc 225 
+current_loc 226 
+current_loc 227 
+current_loc 228 
+Parsing: 9,88,33,15,22,21 into array 
+current_loc 229 
+current_loc 230 
+current_loc 231 
+current_loc 232 
+current_loc 233 
+current_loc 234 
+Parsing: ,44,12,39,53,37, into array 
+current_loc 235 
+current_loc 236 
+current_loc 237 
+current_loc 238 
+current_loc 239 
+Parsing: 22,46,87,49,56,9 into array 
+current_loc 240 
+current_loc 241 
+current_loc 242 
+current_loc 243 
+current_loc 244 
+current_loc 245 
+Parsing: 5,41,47,91,62,77 into array 
+current_loc 246 
+current_loc 247 
+current_loc 248 
+current_loc 249 
+current_loc 250 
+current_loc 251 
+Parsing: ,93,8,11,40,30,2 into array 
+current_loc 252 
+current_loc 253 
+current_loc 254 
+current_loc 255 
+current_loc 256 
+current_loc 257 
+Parsing: 7,36,13,78,74,28 into array 
+current_loc 258 
+current_loc 259 
+current_loc 260 
+current_loc 261 
+current_loc 262 
+current_loc 263 
+Parsing: ,13,18,94,83,21, into array 
+current_loc 264 
+current_loc 265 
+current_loc 266 
+current_loc 267 
+current_loc 268 
+Parsing: 45,7,12,4 into array 
+current_loc 269 
+current_loc 270 
+current_loc 271 
+current_loc 272 
+Parsing: 45 into array 
+current_loc 273 
+93,31,93,32,59,3,20,51,100,58,79,27,96,80,5,97,2,0,49,85,62,99,1,16,6,27,75,5,69,29,96,14,27,9,68,56,99,63,76,68,41,85,38,1,53,47,71,96,57,18,19,8,15,23,9,12,12,79,35,52,58,26,1,8,79,80,53,18,88,33,92,16,97,25,13,82,81,83,89,1,0,6,2,78,91,26,4,2,82,2,29,20,61,87,52,42,60,73,4,0,62,36,63,29,12,13,75,8,71,45,9,0,26,88,90,8,30,34,56,95,33,36,6,6,59,87,43,100,3,4,90,10,2,43,16,6,25,92,96,75,37,23,69,33,66,66,36,96,18,10,12,1,6,82,83,43,9,73,60,56,20,13,53,7,30,81,23,4,63,2,1,19,80,52,71,85,47,59,26,34,97,3,80,14,24,29,94,98,73,8,21,72,4,3,78,3,100,46,40,3,89,60,22,90,6,8,48,45,75,2,14,28,88,77,54,50,2,6,41,28,5,18,71,73,22,33,93,27,6,9,88,33,15,22,21,44,12,39,53,37,22,46,87,49,56,9,5,41,47,91,62,77,93,8,11,40,
+

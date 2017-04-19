@@ -2,7 +2,7 @@
 #import <stdlib.h>
 #import <fcntl.h>
 #import <unistd.h>	// for close#
-#include <string.h>
+#import <string.h>
 #define BUFFER 256
 #define SHORT_BUFFER 16
 
