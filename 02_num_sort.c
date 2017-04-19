@@ -1,8 +1,8 @@
-#import <stdio.h>
-#import <stdlib.h>
-#import <fcntl.h>
-#import <unistd.h>	// for close#
-#import <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <fcntl.h>
+#include <unistd.h>	// for close#
+#include <string.h>
 #define BUFFER 256
 #define SHORT_BUFFER 16
 
