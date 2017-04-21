@@ -57,7 +57,7 @@ int main(int argv, char *argc[]) {
 
 	printf("REVERSE\n");
 	print_dll_reverse(start);
-	
+
 	return 0;
 }
 
@@ -144,7 +144,7 @@ void remove_node(dll* node, int val) {
 	current->next->prev = current->prev;
 	current->prev->next = current->next;
 	printf("Value removed from tree\n");
-
+	free(current);
 
 }
 
