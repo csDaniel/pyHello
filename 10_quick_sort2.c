@@ -5,12 +5,8 @@ void swap(int *a, int *b);
 int partition( int arr[], int low, int high);
 void quick_sort( int arr[], int l, int r);
 
-
-
 int main(int argc, char *argv[]) {
 	int arr[] = { 9,12,44,65,32,98,3,5,6,8 };
-
-
 	int i;
 	printf("Pre-sort:\t[ ");
 	for (i =0; i < 10; i++) {
@@ -29,9 +25,6 @@ int main(int argc, char *argv[]) {
 	return 0;
 }
 
-
-
-
 void swap(int *a, int *b) {
 	int t = *a;
 	*a = *b;
@@ -39,9 +32,8 @@ void swap(int *a, int *b) {
 }
 
 int partition( int arr[], int low, int high) {
-   int pivot = arr[high];
-   int i = (low-1);
-
+	int pivot = arr[high];
+	int i = (low-1);
 	int j;
 	for (j = low; j <= high -1; j++) {
 		if (arr[j] <= pivot) {

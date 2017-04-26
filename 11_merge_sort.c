@@ -14,8 +14,6 @@ int main( int argc, char *argv[]) {
 		printf("%d ",arr[i]);
 	}
 	printf(" ]\n\n");
-
-
 	// SORTING FUNCTION GOES HERE //
 	int arr_size = 10;
 	merge_sort(arr, 0, arr_size-1);
@@ -44,7 +42,6 @@ void merge(int arr[], int low, int mid, int high) {
 		right_arr[j] = arr[mid + 1 + j];
 
 	}
-
 	// merge the temp arrays
 	i = 0;
 	j = 0;
@@ -59,7 +56,7 @@ void merge(int arr[], int low, int mid, int high) {
 		}
 		k++;
 	}
-
+    // add back in the left and right sides
 	while (i < n1) {
 		arr[k] = left_arr[i];
 		i++;
@@ -70,15 +67,12 @@ void merge(int arr[], int low, int mid, int high) {
 		j++;
 		k++;
 	}
-
-
-
-
 }
 
 void merge_sort(int arr[], int left, int right) {
 	if (left < right) {
-		int middle = left + (right-1) / 2;
+		int middle = (left + right) / 2;
+
 
 		merge_sort(arr, left, middle);
 		merge_sort(arr, middle+1, right);
