@@ -70,6 +70,15 @@ void merge(int arr[], int low, int mid, int high) {
 }
 
 void merge_sort(int arr[], int left, int right) {
+
+	printf("[ ");
+
+	printf("left = %d, right = %d",left, right);
+
+
+	printf("]\n");
+
+
 	if (left < right) {
 		int middle = (left + right) / 2;
 
