@@ -41,6 +41,7 @@ void test_func() {
 	int res;
 
 	res = call_test("Let's take LeetCode contest");
+	res = call_test("hehe hehe hehe hehe");
 
 }
 
