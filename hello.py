@@ -3,7 +3,7 @@
 import sys
 
 def lines():
-	print("-----------------")
+	print("-------------------")
 
 # testing for hello world
 def helloWorld():
